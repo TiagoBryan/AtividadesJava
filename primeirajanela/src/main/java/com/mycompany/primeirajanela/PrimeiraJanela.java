@@ -22,8 +22,8 @@ public class PrimeiraJanela extends JFrame {
         Container tela = getContentPane();
         //tela.setBackground(Color.yellow);
         //tela.setBackground(new Color(255,128,128));
-       ImageIcon icone = new ImageIcon("batman.png");
-       setIconImage(icone.getImage());
+       //ImageIcon icone = new ImageIcon("batman.png");
+       //setIconImage(icone.getImage());
         
     }
     
